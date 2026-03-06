@@ -38,10 +38,11 @@ Please note that this hitbox is in a southpaw configuration, which is reversed f
 
 9. Confirm that all buttons work consistently using a controller-enabled app or an online controller tester.
 
-11. Print 6 feet and use a strong binding agent like epoxy resin to attach a bolt to each feet.
+11. Print 6 feet and use a strong binding agent like epoxy resin to attach a bolt to each foot.
 
 12. Bolt the box together using the 6 screws and feet.
 
 13. Enjoy your new hitbox!
 
 More updates and possible redesigns to come.
+
